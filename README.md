@@ -1,6 +1,19 @@
 # Aman Kumar – Project Portfolio
 
-Welcome to my portfolio! Below are some of the collaborative projects I’ve worked on, including a description of my role and contributions.
+Welcome to my portfolio! Below are some of the collaborative and independent projects I’ve worked on, including a description of my role and contributions.
+
+---
+
+## Liquor Store Inventory Automation for DoorDash
+**Tech Stack:** Python, Pandas  
+**Team Role:** Independent project
+- Created a Python script to clean and reformat 8,981 SKUs exported from the CashRegisterExpress POS system
+- Extracted and normalized key fields (Name, UPC, Price, Category) into DoorDash-compatible format
+- Normalized categories (e.g., WINE, WINE4PK, BOX WINE → Wine)
+- Replaced days of manual typing with an automated process that completed in minutes
+- Enabled the store to get onboarded to DoorDash quickly, increasing online visibility and sales
+
+[Project Repository](https://github.com/AmanAK03/CashRegisterExpress-to-Doordash)
 
 ---
 
